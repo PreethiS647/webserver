@@ -63,7 +63,7 @@ httpd.serve_forever()
 ![ServerOutput](./serveroutput.png)
 
 ## Client output 
-![ServerOutput](./clientouput.png)
+![clientOutput](./clientouput.png)
 
 ## RESULT:
 The program is executed succesfullyworker
