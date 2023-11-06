@@ -57,12 +57,13 @@ print("This is my webserver")
 server_address =('',8080)
 httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
+```
 
 ## OUTPUT:
-## Server output
+### Server output
 ![ServerOutput](serveroutput.png)
 
-## Client output 
+### Client output 
 ![clientOutput](clientouput.png)
 
 ## RESULT:
