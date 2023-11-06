@@ -61,12 +61,12 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ### Server output
-![ServerOutput]![serveroutput](https://github.com/PreethiS647/webserver/assets/147313372/d11e60cd-96e9-4c90-8010-9c950cfa6734)
+![ServerOutput](https://github.com/PreethiS647/webserver/assets/147313372/d11e60cd-96e9-4c90-8010-9c950cfa6734)
 
 
 
 ### Client output 
-![clientOutput]![clientouput](https://github.com/PreethiS647/webserver/assets/147313372/5a430a71-a6b2-463b-842b-e86c0ec51ff5)
+![clientOutput](https://github.com/PreethiS647/webserver/assets/147313372/5a430a71-a6b2-463b-842b-e86c0ec51ff5)
 
 
 ## RESULT:
